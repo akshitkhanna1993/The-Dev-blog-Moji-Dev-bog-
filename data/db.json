@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new  tech blog",
+      "body": "Open forum for tech stack discussion",
+      "tags": [
+        "Webdev",
+        "Coding",
+        "News"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Vue js overview",
+      "body": "Open forum for Lore ipsum",
+      "tags": [
+        "Webpack",
+        "Ccc",
+        ".net"
+      ]
+    },
+    {
+      "title": "mobie app development",
+      "body": "emernkjsab\nasckasc sac\nascsacsacsa bcjvasjcsac sac",
+      "tags": [
+        "react",
+        "ionic",
+        "flutter",
+        "vuew"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Intro to tailwind css framework",
+      "body": "asbskajbcklas ck saca\nasdllbsajdsa\nasjbdasjkdcsa\nasjdbsajbncjas cas\ncasjcbascasas'\n\naskndjsac",
+      "tags": [
+        "tailwind",
+        "css",
+        "designing"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Web designing",
+      "body": "ewfewfewfk\ndkcbn'fqb\nqsjbcq\n\nqwdbqwd\nhsacbq\nq;kbhcd\n\nqbkc;",
+      "tags": [
+        "css",
+        "coding"
+      ],
+      "id": 5
+    }
+  ]
+}
